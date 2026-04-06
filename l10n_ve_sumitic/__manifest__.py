@@ -14,6 +14,7 @@
         "sale",
     ],
     "data": [
+        "data/l10n_ve_sumitic_chart_template.xml",
         "data/res_currency_data.xml",
         "data/template/account.tax.group.csv",
         "data/template/account.account.csv",
